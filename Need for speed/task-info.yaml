@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/phonebook/Main.java
+    visible: true
+    learner_created: false
+  - name: test/PhoneBookTest.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/63/stages/342/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 09 Apr 2026 19:11:02 UTC"
+record: -1
