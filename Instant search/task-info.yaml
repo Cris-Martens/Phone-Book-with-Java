@@ -6,6 +6,12 @@ files:
   - name: test/PhoneBookTest.java
     visible: true
     learner_created: false
+  - name: src/directory.txt
+    visible: true
+    learner_created: true
+  - name: src/find.txt
+    visible: true
+    learner_created: true
 feedback_link: https://hyperskill.org/projects/63/stages/475/implement#comment
 status: Solved
 feedback:

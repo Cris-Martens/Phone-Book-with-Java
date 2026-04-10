@@ -264,8 +264,8 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        File directory = new File("/Users/cris/Downloads/directory.txt");
-        File find = new File("/Users/cris/Downloads/find.txt");
+        File directory = new File("Phone Book with Java/src/Downloads/directory.txt");
+        File find = new File("Phone Book with Java/src/Downloads/find.txt");
 
 
         // load directory into dynamic array
