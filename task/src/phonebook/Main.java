@@ -315,13 +315,5 @@ public class Main {
         System.out.println(creationTime);
         System.out.println(searchTime);
         System.out.println();
-
-
-
-
-
-
-
-
     }
 }
